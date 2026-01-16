@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats-nine-plum-95.vercel.app/api?username=huiihao&show_icons=true)
+[![Top Langs](https://github-readme-stats-nine-plum-95.vercel.app/api/top-langs/?username=huiihao)](https://github.com/anuraghazra/github-readme-stats)
