@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 </p>
 
 
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=huiihao)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div align="center"> <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=huiihao" /> </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats-nine-plum-95.vercel.app/api?username=huiihao&show_icons=true)
 
