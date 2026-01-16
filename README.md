@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics">
+</p>
