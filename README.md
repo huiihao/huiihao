@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats-nine-plum-95.vercel.app/api/top-langs/?username=huiihao&size_weight=0.5&count_weight=0.5)
 
+<div align="center"> <img src="https://github-readme-stats-nine-plum-95.vercel.app/api/top-langs/?username=huiihao&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
