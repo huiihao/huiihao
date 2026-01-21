@@ -17,11 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics">
-</p>
-
-
+<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<!-- <img src="/github-metrics.svg" alt="Metrics" width="50%"> -->
 
 <!-- <div align="center"> <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=huiihao" /> </div> -->
 
