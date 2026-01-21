@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AAEF7&center=true&vCenter=true&multiline=true&width=435&lines=%E4%B8%80%E7%94%9F%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%80%E7%94%9F%E8%A2%AB%E7%88%B1;%E6%83%B3%E8%A6%81%E7%9A%84%E9%83%BD%E6%8B%A5%E6%9C%89%EF%BC%8C%E5%BE%97%E4%B8%8D%E5%88%B0%E7%9A%84%E9%83%BD%E9%87%8A%E6%80%80)](https://git.io/typing-svg)
 
 <!--
 **huiihao/huiihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
