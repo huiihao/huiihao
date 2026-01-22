@@ -65,8 +65,20 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats-nine-plum-95.vercel.app/api?username=huiihao&show_icons=true) -->
 <!-- ![Top Langs](https://github-readme-stats-nine-plum-95.vercel.app/api/top-langs/?username=huiihao&size_weight=0.5&count_weight=0.5) -->
 
-<div align="center"> <img height="137px" src="https://github-readme-stats-nine-plum-95.vercel.app/api?username=huiihao&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>  
-<div align="center"> <img src="https://github-readme-stats-nine-plum-95.vercel.app/api/top-langs/?username=huiihao&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div> 
+
+<div align="center">
+  <img height="110px" src="https://github-readme-stats-nine-plum-95.vercel.app/api?username=huiihao&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=333&icon_color=555&bg_color=0,E8F4F8,B5EAD7,FFDAC1,FFB7B2&theme=graywhite" />
+  <!-- <img height="137px" src="https://github-readme-stats-nine-plum-95.vercel.app/api/top-langs/?username=huiihao&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=333&icon_color=777&bg_color=0,B5EAD7,E8F4F8,FFDAC1&theme=graywhite" /> -->
+  <img height="100%" src="https://github-readme-stats-nine-plum-95.vercel.app/api/top-langs/?username=huiihao&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=333&icon_color=777&bg_color=0,FFDAC1,E8F4F8,90CAF9&theme=graywhite" />
+</div>
 
 
+<!-- <div align="center">
+  <img height="137px" src="https://github-readme-stats-nine-plum-95.vercel.app/api?username=huiihao&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=333&icon_color=555&bg_color=0,F8F9FA,E9ECEF,DEE2E6,CED4DA&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats-nine-plum-95.vercel.app/api/top-langs/?username=huiihao&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=333&icon_color=777&bg_color=0,E9ECEF,F8F9FA,DEE2E6&theme=graywhite" />
+</div> -->
 
+<!-- <div align="center">
+  <img height="137px" src="https://github-readme-stats-nine-plum-95.vercel.app/api?username=huiihao&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=334&icon_color=556&bg_color=0,F0F7FF,E3F2FD,BBDEFB,90CAF9&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats-nine-plum-95.vercel.app/api/top-langs/?username=huiihao&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=334&icon_color=777&bg_color=0,E3F2FD,F0F7FF,BBDEFB&theme=graywhite" />
+</div> -->
