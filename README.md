@@ -35,23 +35,23 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<table style="width: 100%; table-layout: fixed;">
+<table width="100%">
   <tr>
-    <td rowspan="2" style="width: 70%; height: 100%; padding: 0px;">
+    <td rowspan="2" width="45%">
       <a href="https://github.com/huiihao/huiihao">
-        <img align="center" src="/github-metrics/stargazers.chartist.svg" alt="yiihao's github stats" style="width: 100%; height: 100%; object-fit: contain;" />
+        <img align="center" src="/github-metrics/stargazers.chartist.svg" alt="yiihao's github stats" width="110%" />
       </a>
     </td>
-    <td style="width: 30%; height: 70%; padding: 0px;">
+    <td width="55%" height="80%">
       <a href="https://github.com/huiihao/huiihao">
-        <img align="center" src="/github-metrics/isocalendar.fullyear.svg" style="width: 100%; height: 100%; object-fit: contain;" />
+        <img align="center" src="/github-metrics/isocalendar.fullyear.svg" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
-    <td style="width: 30%; height: 30%; padding: 0px;">
+    <td width="55%" height="20%">
       <a href="https://github.com/huiihao/huiihao">
-        <img align="center" src="/github-metrics/people.followers.svg" style="width: 100%; height: 100%; object-fit: contain;" />
+        <img align="center" src="/github-metrics/people.followers.svg" width="100%" />
       </a>
     </td>
   </tr>
