@@ -35,12 +35,31 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td rowspan="2" style="width: 70%; height: 100%; padding: 0px;">
+      <a href="https://github.com/huiihao/huiihao">
+        <img align="center" src="/github-metrics/stargazers.chartist.svg" alt="yiihao's github stats" style="width: 100%; height: 100%; object-fit: contain;" />
+      </a>
+    </td>
+    <td style="width: 30%; height: 60%; padding: 0px;">
+      <a href="https://github.com/huiihao/huiihao">
+        <img align="center" src="/github-metrics/isocalendar.fullyear.svg" style="width: 100%; height: 100%; object-fit: contain;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 30%; height: 40%; padding: 0px;">
+      <a href="https://github.com/huiihao/huiihao">
+        <img align="center" src="/github-metrics/people.followers.svg" style="width: 100%; height: 100%; object-fit: contain;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <!-- <div align="center"> <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=huiihao" /> </div> -->
 
-<p align="left"><img src="/github-metrics/isocalendar.fullyear.svg" alt="Metrics" width="400"></p>
-<p align="left"><img src="/github-metrics/people.followers.svg" alt="Metrics" width="400"></p>
-<p align="left"><img src="/github-metrics/stargazers.chartist.svg" alt="Metrics" width="400"></p>
 <p align="left"><img src="/github-metrics/stars.svg" alt="Metrics" width="400"></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats-nine-plum-95.vercel.app/api?username=huiihao&show_icons=true)
