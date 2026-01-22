@@ -19,19 +19,27 @@ Here are some ideas to get you started:
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=huiihao&left_color=green&right_color=red) -->
 
-<p align="left"><img src="/github-metrics/base.svg" alt="Metrics" width="400"></p>
-<!-- <img src="/github-metrics/base.svg" alt="Metrics" width="50%"> -->
+<table>
+  <tr>
+    <td rowspan="2">
+      <a href="https://github.com/huiihao/huiihao"><img align="center" src="/github-metrics/base.svg" alt="yiihao's github stats" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/huiihao/huiihao"><img align="center" src="/github-metrics/repositories.pinned.svg" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/huiihao/huiihao"><img align="center" src="/github-metrics/languages.indepth.svg" /></a>
+    </td>
+  </tr>
+</table>
+
 
 <!-- <div align="center"> <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=huiihao" /> </div> -->
 
-
 <p align="left"><img src="/github-metrics/isocalendar.fullyear.svg" alt="Metrics" width="400"></p>
-
-<p align="left"><img src="/github-metrics/languages.indepth.svg" alt="Metrics" width="400"></p>
-
 <p align="left"><img src="/github-metrics/people.followers.svg" alt="Metrics" width="400"></p>
-
-<p align="left"><img src="/github-metrics/repositories.pinned.svg" alt="Metrics" width="400"></p>
 <p align="left"><img src="/github-metrics/stargazers.chartist.svg" alt="Metrics" width="400"></p>
 <p align="left"><img src="/github-metrics/stars.svg" alt="Metrics" width="400"></p>
 
