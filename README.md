@@ -17,10 +17,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-<!-- <img src="/github-metrics.svg" alt="Metrics" width="50%"> -->
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=huiihao&left_color=green&right_color=red) -->
+
+<p align="left"><img src="/github-metrics/base.svg" alt="Metrics" width="400"></p>
+<!-- <img src="/github-metrics/base.svg" alt="Metrics" width="50%"> -->
 
 <!-- <div align="center"> <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=huiihao" /> </div> -->
+
+
+<p align="left"><img src="/github-metrics/isocalendar.fullyear.svg" alt="Metrics" width="400"></p>
+
+<p align="left"><img src="/github-metrics/languages.indepth.svg" alt="Metrics" width="400"></p>
+
+<p align="left"><img src="/github-metrics/people.followers.svg" alt="Metrics" width="400"></p>
+
+<p align="left"><img src="/github-metrics/repositories.pinned.svg" alt="Metrics" width="400"></p>
+<p align="left"><img src="/github-metrics/stargazers.chartist.svg" alt="Metrics" width="400"></p>
+<p align="left"><img src="/github-metrics/stars.svg" alt="Metrics" width="400"></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats-nine-plum-95.vercel.app/api?username=huiihao&show_icons=true)
 
