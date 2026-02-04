@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img height="110px" src="https://github-readme-stats-nine-plum-95.vercel.app/api?username=huiihao&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=333&icon_color=555&bg_color=0,E8F4F8,B5EAD7,FFDAC1,FFB7B2&theme=graywhite" />
+  <img height="100%" src="https://github-readme-stats-nine-plum-95.vercel.app/api?username=huiihao&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=333&icon_color=555&bg_color=0,E8F4F8,B5EAD7,FFDAC1,FFB7B2&theme=graywhite" />
   <!-- <img height="137px" src="https://github-readme-stats-nine-plum-95.vercel.app/api/top-langs/?username=huiihao&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=333&icon_color=777&bg_color=0,B5EAD7,E8F4F8,FFDAC1&theme=graywhite" /> -->
   <img height="100%" src="https://github-readme-stats-nine-plum-95.vercel.app/api/top-langs/?username=huiihao&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=333&icon_color=777&bg_color=0,FFDAC1,E8F4F8,90CAF9&theme=graywhite" />
 </div>
