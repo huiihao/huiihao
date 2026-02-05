@@ -2,6 +2,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=35&pause=1000&color=0D89A0&center=true&vCenter=true&repeat=false&width=800&height=60&lines=%E4%B8%80%E7%94%9F%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%80%E7%94%9F%E8%A2%AB%E7%88%B1%EF%BC%8C%E6%83%B3%E8%A6%81%E7%9A%84%E9%83%BD%E6%8B%A5%E6%9C%89%EF%BC%8C%E5%BE%97%E4%B8%8D%E5%88%B0%E7%9A%84%E9%83%BD%E9%87%8A%E6%80%80%E3%80%82" alt="Typing SVG" />
 </div>
 
+![](https://komarev.com/ghpvc/?username=huiihao&style=flat-square)
+
 <!--
 **huiihao/huiihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
