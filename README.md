@@ -61,17 +61,6 @@ Physicist by training, quantitative investor by trade. I received my PhD from We
   </tr>
 </table>
 
-## Markets
-
-<p align="center"><sub>A daily read on the market I work in.</sub></p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiihao/huiihao/main/assets/market-pulse-dark.svg">
-    <img src="https://raw.githubusercontent.com/huiihao/huiihao/main/assets/market-pulse-light.svg" width="100%" alt="Market Pulse: SSE Composite, CSI 300, ChiNext and STAR 50 last close and 30-session trend">
-  </picture>
-</p>
-
 ## Trophies
 
 <p align="center">
