@@ -273,9 +273,6 @@
   <text x="86" y="93" font-family="-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="13.5" letter-spacing="2.7" fill="#5EEAD4">PHYSICIST BY TRAINING · QUANT BY TRADE</text>
 
   <text x="70" y="188" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Songti SC','STSong','Noto Serif CJK SC',serif" font-size="72" letter-spacing="-1.2" fill="#F3F0E7">Yihao Hu</text>
-  <line x1="386" y1="136" x2="386" y2="190" stroke="#7C93AE" stroke-width="1" opacity="0.28"/>
-  <text x="410" y="188" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Songti SC','STSong','Noto Serif CJK SC',serif" font-size="30" letter-spacing="7" fill="#98A9BE">胡逸豪</text>
-
   <text x="72" y="250" font-family="-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="20.5" letter-spacing="0.2" fill="#98A9BE">Model the whole system. Find the signal in the noise.</text>
 
   <line x1="72" y1="300" x2="1128" y2="300" stroke="url(#rule)" stroke-width="1"/>

@@ -61,6 +61,35 @@ Physicist by training, quantitative investor by trade. I received my PhD from We
   </tr>
 </table>
 
+## Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=huiihao&amp;theme=gruvbox&amp;no-frame=true&amp;no-bg=true&amp;column=6&amp;title=Stars%2CCommits%2CRepositories%2CFollowers%2CMultiLanguage%2CExperience&amp;margin-w=12&amp;margin-h=12">
+      <img src="https://trophy.ryglcloud.net/?username=huiihao&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=6&amp;title=Stars%2CCommits%2CRepositories%2CFollowers%2CMultiLanguage%2CExperience&amp;margin-w=12&amp;margin-h=12" width="720" alt="GitHub profile trophies">
+    </picture>
+  </a>
+</p>
+
+## Contributions
+
+<p align="center"><sub>Twelve months of work, from two angles.</sub></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiihao/huiihao/main/profile-3d-contrib/profile-dark.svg">
+    <img src="https://raw.githubusercontent.com/huiihao/huiihao/main/profile-3d-contrib/profile-light.svg" width="100%" alt="3D contribution graph">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiihao/huiihao/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/huiihao/huiihao/output/snake-light.svg" width="100%" alt="Contribution snake animation">
+  </picture>
+</p>
+
 ## Writing
 
 - <sub>2026.10</sub> &nbsp; [**ClaudeTex**](https://huiihao.github.io/posts/claudetex/) — LaTeX typesetting for Claude Code
