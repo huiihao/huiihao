@@ -1,90 +1,76 @@
-<div align="center" style="width: 100%;">
-<img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=35&pause=1000&color=0D89A0&center=true&vCenter=true&repeat=false&width=800&height=60&lines=%E4%B8%80%E7%94%9F%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%80%E7%94%9F%E8%A2%AB%E7%88%B1%EF%BC%8C%E6%83%B3%E8%A6%81%E7%9A%84%E9%83%BD%E6%8B%A5%E6%9C%89%EF%BC%8C%E5%BE%97%E4%B8%8D%E5%88%B0%E7%9A%84%E9%83%BD%E9%87%8A%E6%80%80%E3%80%82" alt="Typing SVG" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiihao/huiihao/main/assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiihao/huiihao/main/assets/hero-light.svg">
+    <img src="https://raw.githubusercontent.com/huiihao/huiihao/main/assets/hero-light.svg" alt="Yihao Hu — physicist by training, quant by trade" width="100%">
+  </picture>
+</p>
 
-<!-- ![](https://komarev.com/ghpvc/?username=huiihao&style=flat-square) -->
+<p align="center">
+  <a href="https://huiihao.github.io/"><b>Blog</b></a> &nbsp;·&nbsp;
+  <a href="https://huiihao.github.io/assets/files/cv_20260615.pdf">CV</a> &nbsp;·&nbsp;
+  <a href="https://scholar.google.com/citations?hl=zh-CN&amp;authuser=1&amp;user=JHcBJxIAAAAJ">Google Scholar</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/yihao-hu-04b8871b2/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.zhihu.com/people/wei-rui-38-63">Zhihu</a>
+</p>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=huiihao&color=orange" alt="Profile views" />
-</div>
+Physicist by training, quantitative investor by trade. I received my PhD from Westlake University & Zhejiang University in 2025, where I used machine-learning force fields to watch thousands of atoms move — and found a hidden spiral of electric dipoles in PbTiO₃. Now I research systematic strategies and build the tools around them in Hangzhou. Different subject, same instinct: model the whole system, then look for the signal in the noise.
 
-<!--
-**huiihao/huiihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Physics** — ferroelectrics · multiscale simulation · ML force fields<br>**Markets** — factor research · systematic strategies · market systems<br>**Craft** — Claude Code tooling · offline-first apps · developer experience
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=huiihao&left_color=green&right_color=red) -->
+## Selected work
 
 <table>
   <tr>
-    <td rowspan="2">
-      <a href="https://github.com/huiihao/huiihao"><img align="center" src="/github-metrics/base.svg" alt="yiihao's github stats" /></a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/huiihao/QRSync"><b>QRSync</b></a><br>
+      <sub>Send files across an air gap with animated QR codes — no network, no server, no install.</sub><br><br>
+      <sub><code>JavaScript</code> · 18 stars</sub>
     </td>
-    <td>
-      <a href="https://github.com/huiihao/huiihao"><img align="center" src="/github-metrics/repositories.pinned.svg" /></a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/huiihao/ClaudeTex"><b>ClaudeTex</b></a><br>
+      <sub>LaTeX typesetting for Claude Code: Unicode formulas in the terminal, KaTeX in the browser.</sub><br><br>
+      <sub><code>TypeScript</code></sub>
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/huiihao/huiihao"><img align="center" src="/github-metrics/languages.indepth.svg" /></a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/huiihao/agent-street"><b>Agent Street</b></a><br>
+      <sub>A pixel-art town of generative agents, with its own little stock market.</sub><br><br>
+      <sub><code>Python</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/huiihao/a-share-realtime-dashboard"><b>A-Share Dashboard</b></a><br>
+      <sub>A Bloomberg-style A-share market panel: multi-source data, light and dark themes.</sub><br><br>
+      <sub><code>HTML</code></sub>
     </td>
   </tr>
 </table>
 
-<table width="100%">
+<p align="right"><a href="https://github.com/huiihao?tab=repositories"><sub>All repositories →</sub></a></p>
+
+## Signals
+
+<table align="center">
   <tr>
-    <td rowspan="2" width="45%">
-      <a href="https://github.com/huiihao/huiihao">
-        <img align="center" src="/github-metrics/stargazers.chartist.svg" alt="yiihao's github stats" width="110%" />
-      </a>
-    </td>
-    <td width="55%" height="80%">
-      <a href="https://github.com/huiihao/huiihao">
-        <img align="center" src="/github-metrics/isocalendar.fullyear.svg" width="100%" />
-      </a>
-    </td>
+    <td rowspan="2" width="50%" align="center" valign="middle"><img src="./github-metrics/base.svg" width="100%" alt="GitHub profile metrics"></td>
+    <td width="50%" align="center" valign="middle"><img src="./github-metrics/isocalendar.fullyear.svg" width="100%" alt="Isometric contribution calendar"></td>
   </tr>
   <tr>
-    <td width="55%" height="20%">
-      <a href="https://github.com/huiihao/huiihao">
-        <img align="center" src="/github-metrics/people.followers.svg" width="100%" />
-      </a>
-    </td>
+    <td width="50%" align="center" valign="middle"><img src="./github-metrics/languages.indepth.svg" width="100%" alt="Language usage by lines of code"></td>
   </tr>
 </table>
 
+## Writing
 
-<!-- <div align="center"> <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=huiihao" /> </div> -->
+- <sub>2026.10</sub> &nbsp; [**ClaudeTex**](https://huiihao.github.io/posts/claudetex/) — LaTeX typesetting for Claude Code
+- <sub>2026.07</sub> &nbsp; [**Westlake Commencement**](https://huiihao.github.io/posts/westlake-commencement/) — a few notes at the end of a PhD
+- <sub>2026.06</sub> &nbsp; [**EchoWave Music**](https://huiihao.github.io/posts/echowave-music/) — a multi-source music search and playback platform
+- <sub>2026.06</sub> &nbsp; [**A-Share Realtime Dashboard**](https://huiihao.github.io/posts/a-share-dashboard/) — building a Bloomberg-style market panel
 
-<!-- <p align="left"><img src="/github-metrics/stars.svg" alt="Metrics" width="400"></p> -->
+<p align="right"><a href="https://huiihao.github.io/"><sub>More on the blog →</sub></a></p>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats-nine-plum-95.vercel.app/api?username=huiihao&show_icons=true) -->
-<!-- ![Top Langs](https://github-readme-stats-nine-plum-95.vercel.app/api/top-langs/?username=huiihao&size_weight=0.5&count_weight=0.5) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=24&pause=1200&color=0E8A9A&center=true&vCenter=true&repeat=false&width=760&height=42&lines=%E4%B8%80%E7%94%9F%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%80%E7%94%9F%E8%A2%AB%E7%88%B1%EF%BC%8C%E6%83%B3%E8%A6%81%E7%9A%84%E9%83%BD%E6%8B%A5%E6%9C%89%EF%BC%8C%E5%BE%97%E4%B8%8D%E5%88%B0%E7%9A%84%E9%83%BD%E9%87%8A%E6%80%80%E3%80%82" alt="一生努力，一生被爱，想要的都拥有，得不到的都释怀。">
+</p>
 
-
-<div align="center">
-  <img height="100%" src="https://github-readme-stats-nine-plum-95.vercel.app/api?username=huiihao&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=333&icon_color=555&bg_color=0,E8F4F8,B5EAD7,FFDAC1,FFB7B2&theme=graywhite" />
-  <!-- <img height="137px" src="https://github-readme-stats-nine-plum-95.vercel.app/api/top-langs/?username=huiihao&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=333&icon_color=777&bg_color=0,B5EAD7,E8F4F8,FFDAC1&theme=graywhite" /> -->
-  <img height="100%" src="https://github-readme-stats-nine-plum-95.vercel.app/api/top-langs/?username=huiihao&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=333&icon_color=777&bg_color=0,FFDAC1,E8F4F8,90CAF9&theme=graywhite" />
-</div>
-
-
-<!-- <div align="center">
-  <img height="137px" src="https://github-readme-stats-nine-plum-95.vercel.app/api?username=huiihao&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=333&icon_color=555&bg_color=0,F8F9FA,E9ECEF,DEE2E6,CED4DA&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats-nine-plum-95.vercel.app/api/top-langs/?username=huiihao&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=333&icon_color=777&bg_color=0,E9ECEF,F8F9FA,DEE2E6&theme=graywhite" />
-</div> -->
-
-<!-- <div align="center">
-  <img height="137px" src="https://github-readme-stats-nine-plum-95.vercel.app/api?username=huiihao&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=334&icon_color=556&bg_color=0,F0F7FF,E3F2FD,BBDEFB,90CAF9&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats-nine-plum-95.vercel.app/api/top-langs/?username=huiihao&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=334&icon_color=777&bg_color=0,E3F2FD,F0F7FF,BBDEFB&theme=graywhite" />
-</div> -->
